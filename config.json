@@ -1,0 +1,17 @@
+{
+    "BotToken": "",
+    "GitlabAccessToken": "",
+    "Port": "",
+    "LogsFolderName": "Logs",
+    "DBFolderName": "BotDB",
+    "GitlabURL": "",
+    "WebhookURL": "",
+    "WebhookToken": "",
+    "EncryptionKey": "",
+    "CommentsTimeLimit": "",
+    "DontSendMessagesSince": ,
+    "DontSendMessagesUntil": ,
+    "LimitOfSecondsBetweenAttempts": ,
+    "BanMinutes": ,
+    "MaxSpamMessages": 
+}
